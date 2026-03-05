@@ -3,7 +3,7 @@ module github.com/pbs/terraform-aws-virtual-router-module
 go 1.23.0
 
 require (
-	github.com/aws/aws-sdk-go v1.44.268
+	github.com/aws/aws-sdk-go v1.55.8
 	github.com/gruntwork-io/terratest v0.41.26
 	github.com/stretchr/testify v1.11.1
 )
