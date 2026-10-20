@@ -23,7 +23,7 @@ require (
 	github.com/hashicorp/terraform-json v0.23.0 // indirect
 	github.com/jinzhu/copier v0.3.5 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
-	github.com/klauspost/compress v1.16.5 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/mattn/go-zglob v0.0.4 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
